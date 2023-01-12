@@ -130,7 +130,7 @@ zombies = (
  zombiedice.examples.RollsUntilInTheLeadZombie(name='Until Leading'),
  zombiedice.examples.MinNumShotgunsThenStopsZombie(name='Stop at 2 Shotguns', minShotguns=2),
  zombiedice.examples.MinNumShotgunsThenStopsZombie(name='Stop at 1 Shotgun', minShotguns=1),
- myRandomZombie('Zombozo'),
+ MyRandomZombie('Zombozo'),
  MyTwoBrainZombie('Toolie'),
  MyTwoShotsZombie('Termay'),
  MyWiseZombie('WisBrain'),
